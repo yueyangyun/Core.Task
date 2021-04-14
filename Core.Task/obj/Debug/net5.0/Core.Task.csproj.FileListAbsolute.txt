@@ -1,0 +1,16 @@
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.exe
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.deps.json
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.runtimeconfig.json
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.runtimeconfig.dev.json
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.dll
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\ref\Core.Task.dll
+D:\.net\.netCore\Core.Task\Core.Task\bin\Debug\net5.0\Core.Task.pdb
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.csprojAssemblyReference.cache
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.AssemblyInfoInputs.cache
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.AssemblyInfo.cs
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.csproj.CoreCompileInputs.cache
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.dll
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\ref\Core.Task.dll
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.pdb
+D:\.net\.netCore\Core.Task\Core.Task\obj\Debug\net5.0\Core.Task.genruntimeconfig.cache
